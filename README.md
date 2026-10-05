@@ -1,4 +1,5 @@
 **Кастомная версия whitemaxmod**
+
 **APK файл собранный из данного репозитория на VirusTotal выдает аткие значения:**
 
 <img width="2482" height="1097" alt="image" src="https://github.com/user-attachments/assets/bfa87a32-8d83-4c32-9e2e-4ee1711cad34" />
